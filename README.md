@@ -10,6 +10,7 @@ A web-based quiz platform that allows users to take quizzes, track their scores,
 4. npm run dev,
 5. Then open "http://localhost:5173" in your browser
 
-## Deployed Site Link: "https://app.netlify.com/sites/quizsite2/configuration/visual-editor"
+## Links
 
-## Github Link: "https://github.com/ShriyaUppal/QUIZ-SITE"
+1. Deployed Site Link: "https://quizsite2.netlify.app/"
+2. Github Link: "https://github.com/ShriyaUppal/QUIZ-SITE"
